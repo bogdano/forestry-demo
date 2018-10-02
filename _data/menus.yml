@@ -1,5 +1,6 @@
 ---
 footer:
 - weight: 1
+  url: g.com
   parent: _posts
   title: gggg
